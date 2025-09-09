@@ -1,0 +1,5 @@
+add-migration initial-create
+Update-Database
+
+connect via visual studio
+(localdb)\mssqllocaldb
